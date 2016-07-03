@@ -1,7 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/websterm/Downloads/libsvm-3.21/python'
 let g:netrw_dirhist_2='/Users/websterm/school/cmsc422'
 let g:netrw_dirhist_3='/Users/websterm/school/cmsc422/slides'
 let g:netrw_dirhist_4='/Users/websterm/.vim'
 let g:netrw_dirhist_5='/Users/websterm/.vim/autoload'
+let g:netrw_dirhist_6='/Users/websterm/.vim'
+let g:netrw_dirhist_7='/Users/websterm/.vim/bundle'
